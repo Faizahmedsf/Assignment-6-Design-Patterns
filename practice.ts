@@ -3,7 +3,7 @@ import { aboutproduct, calculate, dbase, productpaymnet, shape, IA, IB, UserA, p
 console.log('Index.ts Design Patterns');
 
 // SOLID PRINCIPLE
-
+ 
 //1.  S- SINGLE RESPONSIBILITY PRINCIPLE
 /* 
     a component should have a single responsibility
